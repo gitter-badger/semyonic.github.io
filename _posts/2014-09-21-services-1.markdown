@@ -2,9 +2,9 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Who am I =:<br>Special Thanks
 description: |
-  <p class="lead">A special thanks to <a target="_blank"
+  <p class="lead">About Me="_blank"
   href="http://join.deathtothestockphoto.com/">It's under construction right now
   Photo</a></p>
 
