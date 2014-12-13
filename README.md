@@ -1,2 +1,1 @@
 # Landing Page Jekyll theme
-==========================
