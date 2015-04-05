@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: icub.jpg
 category: Services
 title: Projects<br>
 description: |
