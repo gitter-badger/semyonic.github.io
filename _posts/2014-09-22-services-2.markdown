@@ -4,6 +4,6 @@ img: dog.png
 category: Services
 title: Projects<br>
 description: |
-  <p class="lead">It's under construction right now!
+  <p class="lead">Currently working on iCub Humanoid Robot
 
 ---
