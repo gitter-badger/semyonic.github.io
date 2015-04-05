@@ -4,7 +4,7 @@ img: ipad.png
 category: Services
 title: Who am I ? <br>
 description: |
-  <p class="lead">About Me="_blank"
+  <p class="lead">About Me="_blank">
   href="http://join.deathtothestockphoto.com/">It's under construction right now
   Photo</a></p>
 
