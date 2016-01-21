@@ -1,9 +1,0 @@
----
-layout: default
-img: icub.jpg
-category: Services
-title: Projects<br>
-description: |
-  <p class="lead">Currently working on iCub Humanoid Robot
-
----

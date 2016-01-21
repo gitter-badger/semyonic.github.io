@@ -1,31 +1,30 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
-
-url: https://semihonay.me
+# Site settings
 title: Semih Onay
-email: semionay@gmail.com
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+description: 'Graduated from Istanbul Bilgi University Department of Computer Science. My interest are
+Neuroscience, Cognition and Computer Games'
+url: 'semyonic.github.io'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
 
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
+author:
+  name: 'Semih Onay'
+  email: semih.onay@bilgiedu.net
+  twitter_username: Semyonic
+  github_username:  Semyonic
+  linkedin_username:  semihonay
 
 # Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
 markdown: kramdown
-permalink: pretty
+highlighter: pygments
+gems: [jekyll-paginate]
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-social:
-  - title: twitter
-    url: https://twitter.com/semyonic
-  - title: github
-    url: https://github.com/Semyonic
-  - title: linkedin
-    url: http://tr.linkedin.com/pub/semih-onay/93/298/267/
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
