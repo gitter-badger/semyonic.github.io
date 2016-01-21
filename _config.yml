@@ -4,7 +4,7 @@ description: 'Graduated from Istanbul Bilgi University Department of Computer Sc
 Neuroscience, Cognition and Computer Games'
 url: 'semyonic.github.io'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-53910262-5'
 
 author:
   name: 'Semih Onay'
